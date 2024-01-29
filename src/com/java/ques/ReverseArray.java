@@ -1,6 +1,6 @@
-package com.assign.app;
+package com.java.ques;
 
-public class ReverseArrayQuestion3 {
+public class ReverseArray {
 
 	/*
 	 * function that reverses array and stores it in another array
